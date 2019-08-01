@@ -28,7 +28,7 @@
             "live_link": "https://younso9.github.io/Project2/",
             "github_link": "https://github.com/younso9/Project2",
             "image_urls": [
-                "/static/images/PR3.JPG"
+                "/static/images/PR2.JPG"
             ]
         },
         {
@@ -60,14 +60,7 @@
             "live_link": "https://younso9.github.io/Project-4/",
             "github_link": "https://github.com/younso9/Project-4",
             "image_urls": [
-                "/static/images/thcrown.jpg",
-                "/static/images/pink-ocean.jpg",
-                "/static/images/crown.jpg",
-                "/static/images/dbupr.jpg",
-                "/static/images/dbuwin.jpg",
-                "/static/images/dollbossJ.jpg",
-                "/static/images/saduni.jpg",
-                "/static/images/tiltcrown.png"
+                "/static/images/PR4.JPG"
             ]
         },
         {
@@ -83,7 +76,7 @@
             "live_link": "https://younso9.github.io/PROJECT5/",
             "github_link": "https://github.com/younso9/PROJECT5",
             "image_urls": [
-                "/static/images/dojo.jpg"
+                "/static/images/PR5.JPG"
             ]
         }
     ]
