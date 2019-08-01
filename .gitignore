@@ -86,3 +86,7 @@ typings/
 
 # DynamoDB Local files
 .dynamodb/
+
+# Gets rid of files and folders not needed.
+# ignores node modules folder
+node_modules

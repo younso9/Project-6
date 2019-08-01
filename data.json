@@ -1,0 +1,90 @@
+{
+    "projects": [
+        {
+            "id": 0,
+            "project_name": "Random Quote Generator",
+            "description": "My Project that displays a random quote when user clicks on the button.",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "JavaScript"
+            ],
+            "live_link": "https://younso9.github.io/Tech-Degree-Project-1/",
+            "github_link": "https://github.com/younso9/Tech-Degree-Project-1",
+            "image_urls": [
+                "static/images/PR1.JPG"
+            ]
+        },
+        {
+            "id": 1,
+            "project_name": "List Pagination & Filtering",
+            "description": "Created a series of paginated pages in JS that visual pleasing to the end-user",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "jQuery"
+            ],
+            "live_link": "https://younso9.github.io/Project2/",
+            "github_link": "https://github.com/younso9/Project2",
+            "image_urls": [
+                "/static/images/PR3.JPG"
+            ]
+        },
+        {
+            "id": 2,
+            "project_name": "Interactive Form",
+            "description": "Created an Interactive Form that's end-user friendly",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "jQuery"
+            ],
+            "live_link": "https://younso9.github.io/Project-3/",
+            "github_link": "https://github.com/younso9/Project-3",
+            "image_urls": [
+                "/static/images/PR3.JPG"
+            ]
+        },
+        {
+            "id": 3,
+            "project_name": "OOP Game Show App",
+            "description": "The DollBoss Hunter, a browser based word guessing game.",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "jQuery"
+            ],
+            "live_link": "https://younso9.github.io/Project-4/",
+            "github_link": "https://github.com/younso9/Project-4",
+            "image_urls": [
+                "/static/images/thcrown.jpg",
+                "/static/images/pink-ocean.jpg",
+                "/static/images/crown.jpg",
+                "/static/images/dbupr.jpg",
+                "/static/images/dbuwin.jpg",
+                "/static/images/dollbossJ.jpg",
+                "/static/images/saduni.jpg",
+                "/static/images/tiltcrown.png"
+            ]
+        },
+        {
+            "id": 4,
+            "project_name": "Public API Requests",
+            "description": "Created an Employee Directory via communication with a third-party API",
+            "technologies": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "jQuery"
+            ],
+            "live_link": "https://younso9.github.io/PROJECT5/",
+            "github_link": "https://github.com/younso9/PROJECT5",
+            "image_urls": [
+                "/static/images/dojo.jpg"
+            ]
+        }
+    ]
+}
