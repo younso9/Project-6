@@ -1,0 +1,6 @@
+extends layout.pug
+
+block content 
+    h1= 'Oh No, Something Went Wrong!'
+    img.error(src="/static/images/404er.JPG")
+    p= error.stack

@@ -3,7 +3,7 @@
         {
             "id": 0,
             "project_name": "Random Quote Generator",
-            "description": "My Project that displays a random quote when user clicks on the button.",
+            "description": "This project generates a random quote from an array when user clicks on the button onscreen.",
             "technologies": [
                 "HTML",
                 "CSS",
@@ -11,14 +11,17 @@
             ],
             "live_link": "https://younso9.github.io/Tech-Degree-Project-1/",
             "github_link": "https://github.com/younso9/Tech-Degree-Project-1",
+            "main_img": "/static/images/PR1_new.JPG",
             "image_urls": [
-                "static/images/PR1.JPG"
+                "/static/images/PR1-2.JPG",
+                "/static/images/PR1-3.JPG",
+                "/static/images/PR1-2.JPG"
             ]
         },
         {
             "id": 1,
             "project_name": "List Pagination & Filtering",
-            "description": "Created a series of paginated pages in JS that visual pleasing to the end-user",
+            "description": "This project displays student records that are displayed 10 per page.  The series of pages are paginated making the page user friendly.",
             "technologies": [
                 "HTML",
                 "CSS",
@@ -27,8 +30,9 @@
             ],
             "live_link": "https://younso9.github.io/Project2/",
             "github_link": "https://github.com/younso9/Project2",
+            "main_img": "/static/images/PR2.JPG",
             "image_urls": [
-                "/static/images/PR2.JPG"
+                ""
             ]
         },
         {
@@ -43,8 +47,9 @@
             ],
             "live_link": "https://younso9.github.io/Project-3/",
             "github_link": "https://github.com/younso9/Project-3",
+            "main_img": "/static/images/PR3.JPG",
             "image_urls": [
-                "/static/images/PR3.JPG"
+                ""
             ]
         },
         {
@@ -59,6 +64,7 @@
             ],
             "live_link": "https://younso9.github.io/Project-4/",
             "github_link": "https://github.com/younso9/Project-4",
+            "main_img": "/static/images/PR4.JPG",
             "image_urls": [
                 "/static/images/PR4.JPG"
             ]
@@ -75,8 +81,9 @@
             ],
             "live_link": "https://younso9.github.io/PROJECT5/",
             "github_link": "https://github.com/younso9/PROJECT5",
+            "main_img": "/static/images/PR5_new.JPG",
             "image_urls": [
-                "/static/images/PR5.JPG"
+                ""
             ]
         }
     ]
