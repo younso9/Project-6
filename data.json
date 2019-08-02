@@ -11,11 +11,11 @@
             ],
             "live_link": "https://younso9.github.io/Tech-Degree-Project-1/",
             "github_link": "https://github.com/younso9/Tech-Degree-Project-1",
-            "main_img": "/static/images/PR1_new.JPG",
+            "main_img": "/static/images/RQG.jpg",
             "image_urls": [
                 "/static/images/PR1-2.JPG",
                 "/static/images/PR1-3.JPG",
-                "/static/images/PR1-2.JPG"
+                "/static/images/PR1_new.JPG"
             ]
         },
         {
@@ -30,9 +30,9 @@
             ],
             "live_link": "https://younso9.github.io/Project2/",
             "github_link": "https://github.com/younso9/Project2",
-            "main_img": "/static/images/PR2.JPG",
+            "main_img": "/static/images/Pag.jpg",
             "image_urls": [
-                ""
+                "/static/images/PR2.JPG"
             ]
         },
         {
@@ -47,9 +47,9 @@
             ],
             "live_link": "https://younso9.github.io/Project-3/",
             "github_link": "https://github.com/younso9/Project-3",
-            "main_img": "/static/images/PR3.JPG",
+            "main_img": "/static/images/TForm.jpg",
             "image_urls": [
-                ""
+                "/static/images/PR3.JPG"
             ]
         },
         {
@@ -64,8 +64,9 @@
             ],
             "live_link": "https://younso9.github.io/Project-4/",
             "github_link": "https://github.com/younso9/Project-4",
-            "main_img": "/static/images/PR4.JPG",
+            "main_img": "/static/images/DBH.jpg",
             "image_urls": [
+                "/static/images/dbh1.jpg",
                 "/static/images/PR4.JPG"
             ]
         },
@@ -81,9 +82,9 @@
             ],
             "live_link": "https://younso9.github.io/PROJECT5/",
             "github_link": "https://github.com/younso9/PROJECT5",
-            "main_img": "/static/images/PR5_new.JPG",
+            "main_img": "/static/images/Employee.jpg",
             "image_urls": [
-                ""
+                "/static/images/PR5_new.JPG"
             ]
         }
     ]
