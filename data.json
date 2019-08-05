@@ -11,11 +11,11 @@
             ],
             "live_link": "https://younso9.github.io/Tech-Degree-Project-1/",
             "github_link": "https://github.com/younso9/Tech-Degree-Project-1",
-            "main_img": "/static/images/RQG.jpg",
+            "main_img": "/static/images/PJ1.jpg",
             "image_urls": [
-                "/static/images/PR1-2.JPG",
-                "/static/images/PR1-3.JPG",
-                "/static/images/PR1_new.JPG"
+                "/static/images/PR1-2.jpg",
+                "/static/images/PR1-3.jpg",
+                "/static/images/PR1_new.jpg"
             ]
         },
         {
@@ -30,9 +30,9 @@
             ],
             "live_link": "https://younso9.github.io/Project2/",
             "github_link": "https://github.com/younso9/Project2",
-            "main_img": "/static/images/Pag.jpg",
+            "main_img": "/static/images/PJ2.jpg",
             "image_urls": [
-                "/static/images/PR2.JPG"
+                "/static/images/PR2.jpg"
             ]
         },
         {
@@ -47,9 +47,9 @@
             ],
             "live_link": "https://younso9.github.io/Project-3/",
             "github_link": "https://github.com/younso9/Project-3",
-            "main_img": "/static/images/TForm.jpg",
+            "main_img": "/static/images/PJ3.jpg",
             "image_urls": [
-                "/static/images/PR3.JPG"
+                "/static/images/PR3.jpg"
             ]
         },
         {
@@ -64,16 +64,16 @@
             ],
             "live_link": "https://younso9.github.io/Project-4/",
             "github_link": "https://github.com/younso9/Project-4",
-            "main_img": "/static/images/DBH.jpg",
+            "main_img": "/static/images/PJ5.jpg",
             "image_urls": [
                 "/static/images/dbh1.jpg",
-                "/static/images/PR4.JPG"
+                "/static/images/PR4.jpg"
             ]
         },
         {
             "id": 4,
-            "project_name": "Public API Requests",
-            "description": "Created an Employee Directory via communication with a third-party API",
+            "project_name": "Public API Request",
+            "description": "Created a website via Node and Express",
             "technologies": [
                 "HTML",
                 "CSS",
@@ -82,10 +82,11 @@
             ],
             "live_link": "https://younso9.github.io/PROJECT5/",
             "github_link": "https://github.com/younso9/PROJECT5",
-            "main_img": "/static/images/Employee.jpg",
+            "main_img": "/static/images/PJ6.jpg",
             "image_urls": [
-                "/static/images/PR5_new.JPG"
+                "/static/images/PR5_new.jpg",
+                "/static/images/PR5.jpg"
             ]
-        }
+        }    
     ]
 }
